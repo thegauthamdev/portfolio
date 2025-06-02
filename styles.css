@@ -36,30 +36,30 @@ main {
 /* ===========================
    BORDER LINES
 =========================== */
-.line {
+/* .line {
   position: fixed;
   background-color: white;
   z-index: 10;
-}
+} */
 
 /* Vertical lines */
-.line-left,
+/* .line-left,
 .line-right {
   top: 20px;
   bottom: 20px;
   width: 1px;
-}
+} */
 
-.line-left {
+/* .line-left {
   left: 20px;
 }
 
 .line-right {
   right: 20px;
-}
+} */
 
 /* Horizontal lines */
-.line-top,
+/* .line-top,
 .line-bottom {
   left: 20px;
   right: 20px;
@@ -72,7 +72,7 @@ main {
 
 .line-bottom {
   bottom: 20px;
-}
+} */
 
 
 /* ===========================
